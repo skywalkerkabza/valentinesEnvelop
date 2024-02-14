@@ -42,7 +42,7 @@ $(window).ready(function () {
         if (i === 0) {
             particle.append("<p>I love you</p>");
         } else if (i === 1) {
-            particle.append("<p>May you be my valentine nomtha wami</p>");
+            particle.append("<p>Happy Valentines day MakaMiMo</p>");
         }
         spawn(particle);
     }
